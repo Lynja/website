@@ -1,0 +1,12 @@
+body{
+  background: lightsteelblue;
+  color: black;
+  padding: 75px 100px;
+  margin: 10x 20x 20x 10x;
+  border: 10px solid black;
+  line-height: 1.25;
+  font-size: 20px;
+  font-weight: normal;
+  text-transform: none;
+  font-family: 'Hind', sans-serif;
+}
